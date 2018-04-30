@@ -28,5 +28,17 @@
 ## 请求响应规范
 - **获取用户信息**
  ``` xml
-array(11) { ["id"]=> int(1) ["v_id"]=> NULL ["sp_id"]=> NULL ["user_login"]=> string(5) "sixos" ["user_passwd"]=> string(11) "jiang221716" ["user_nicename"]=> string(5) "sixos" ["user_email"]=> string(14) "sixos@sixos.io" ["user_regdate"]=> string(19) "2018-04-29 12:55:29" ["user_status"]=> int(1) ["user_vip_number"]=> int(587) ["remark"]=> string(24) "这是一条测试数据" }
- ```
+array(11) { 
+    ["id"]=> int(1) 
+    ["v_id"]=> NULL 
+    ["sp_id"]=> NULL 
+    ["user_login"]=> string(5) "sixos" 
+    ["user_passwd"]=> string(11) "jiang221716" 
+    ["user_nicename"]=> string(5) "sixos" 
+    ["user_email"]=> string(14) "sixos@sixos.io" 
+    ["user_regdate"]=> string(19) "2018-04-29 12:55:29" 
+    ["user_status"]=> int(1) 
+    ["user_vip_number"]=> int(587) 
+    ["remark"]=> string(24) "这是一条测试数据" 
+}
+```
