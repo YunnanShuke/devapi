@@ -16,7 +16,7 @@
 - [用户注册接口](https://devapi.ynshuke.com/postReg)
 - [用户信息获取接口](https://devapi.ynshuke.com/getUser)
 - [文章列表获取接口（or单个文章）](https://devapi.ynshuke.com/getArticle)
-- [用户地址处理接口] (https://devapi.ynshuke.com/postAdd)
+- [用户地址处理接口](https://devapi.ynshuke.com/postAdd)
 - [获取商品分类列表接口](https://devapi.ynshuke.com/getCmcf)
 - [获取商品列表接口（or单个商品）](https://devapi.ynshuke.com/getComm)
 - [会员信息登记接口](https://devapi.ynshuke.com/postVip)
