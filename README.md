@@ -43,3 +43,11 @@ array(11) {
     ["remark"]=> string(24) "这是一条测试数据" 
 }
 ```
+
+## 微信小程序头像信息请求规范
+``` xml
+array(2) { 
+   ["success"]=> int(1) "1"
+   ["avatarUrl"]=> string(77) "https://thirdqq.qlogo.cn/qqapp/101460841/357A85E5F1E49A3F0EC3BADFA280F356/100"
+}
+```
