@@ -26,7 +26,7 @@
 - [小程序支付管理接口](https://devapi.ynshuke.com/wxPay)
 
 ## 请求响应规范
-- **获取用户信息**
+- **获取用户信息**  
 Laravel控制器从数据库中取到数据返回一个obj对象型数据，return一个由obj对象转换来的数组。
  ``` xml
 array(11) { 
