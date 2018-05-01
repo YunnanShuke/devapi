@@ -17,7 +17,8 @@ class GetUserController extends Controller
      */
         //$getName = $this->getName('sixos',null);
         //echo $getName['name'];
-        var_dump($this->getUser(1,'all'));
+        return json_encode($this->getUser(1,'all'));
+
     }
     //这是一个获取用户数据的API
     public function getUser($id,$type){
